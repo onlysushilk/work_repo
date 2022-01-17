@@ -14,7 +14,3 @@ lemons
 lettuce
 rice
 soup
-ice cream
-sugar
-flour
-
