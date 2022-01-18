@@ -18,7 +18,7 @@ For WF10
 Supplier code = SP3W
 SK2WSQ00000008-Supplier Qualification Form ID
 For WF11
-Supplier code = SP5W
+Supplier code = SP5Wl
 SK2WSQ00000010-Supplier Qualification Form ID
 
 
