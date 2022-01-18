@@ -1,5 +1,6 @@
 Shopping List
 
+Blue apples
 Grey apples
 Red apples
 bananas
@@ -10,7 +11,7 @@ cereal
 eggs
 bacon
 orange juice
-21 grapes
+grapes
 lemons
 lettuce
 rice
@@ -21,4 +22,4 @@ Red potato
 icecream
 butter
 coffee
-Blue oil
+Grey oil
