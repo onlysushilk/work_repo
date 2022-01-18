@@ -1,6 +1,6 @@
 Shopping List
 
-apples
+Red apples
 bananas
 yogurt
 milk
@@ -9,7 +9,7 @@ cereal
 eggs
 bacon
 orange juice
-grapes
+17 grapes
 lemons
 lettuce
 rice
@@ -22,3 +22,4 @@ Hello
 this 
 3 files
 added!!
+No way.
