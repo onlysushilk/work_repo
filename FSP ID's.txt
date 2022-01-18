@@ -1,8 +1,6 @@
 Supplier company code= SP1W
 For WF1-Wf5
-SK2WSQ00000001-Screening
-SK2WSQ00000003-Qualification
-SK2WSQ00000002-Child
+SK2WSQ0000000
 For WF6
 Supplier company code= SP2W
 SK2WSQ00000004-Screening
