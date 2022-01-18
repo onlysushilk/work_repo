@@ -1,5 +1,6 @@
 Shopping List
 
+Grey apples
 Red apples
 bananas
 yogurt
@@ -9,17 +10,15 @@ cereal
 eggs
 bacon
 orange juice
-17 grapes
+21 grapes
 lemons
 lettuce
 rice
 soup
 icecream
 sandwich
-potato
+Red potato
 icecream
-Hello
-this 
-3 files
-added!!
-No way.
+butter
+coffee
+Blue oil
