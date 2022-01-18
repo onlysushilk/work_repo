@@ -14,3 +14,7 @@ lemons
 lettuce
 rice
 soup
+icecream
+sandwich
+potato
+cream
