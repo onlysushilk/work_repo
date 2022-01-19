@@ -1,0 +1,26 @@
+Supplier company code= SP1W
+For WF1-Wf5
+SK2WSQ00000001-Screening
+SK2WSQ00000003-Qualification
+SK2WSQ00000002-Child
+For WF6
+Supplier company code= SP2W
+SK2WSQ00000004-Screening
+For WF7
+Supplier company code= SP1W
+SK2WSQ00000002-Child
+FOR WF8
+Supplier company code= SP3W
+SK2WSQ00000005-Screening
+SK2WSQ00000006-Child
+WF9= Invalid.
+For WF10
+Supplier code = SP3W
+SK2WSQ00000008-Supplier Qualification Form ID
+For WF11
+Supplier code = SP5W
+SK2WSQ00000010-Supplier Qualification Form ID
+
+
+
+ 
