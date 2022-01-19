@@ -20,7 +20,7 @@ SK2WSQ00000008-Supplier Qualification Form ID
 For WF11
 Supplier code = SP5W
 SK2WSQ00000010-Supplier Qualification Form ID
-
+typofixed
 
 
  
