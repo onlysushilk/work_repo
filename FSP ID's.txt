@@ -21,6 +21,8 @@ For WF11
 Supplier code = SP5Wl
 SK2WSQ00000010-Supplier Qualification Form ID
 
+Update chpick 
+
 
 
  
