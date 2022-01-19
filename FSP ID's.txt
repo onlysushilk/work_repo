@@ -19,7 +19,11 @@ For WF11
 Supplier code = SP5W
 SK2WSQ00000010-Supplier Qualification Form ID
 
+<<<<<<< HEAD
 Cherryupd
+=======
+Update chpick 
+>>>>>>> 27e5142 (Oktyp1)
 
 
 
